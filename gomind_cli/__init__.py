@@ -1,3 +1,5 @@
+import json
+
 def get_sys_args_as_dict() -> dict:
     """Retorna os parâmetros do terminal
 
